@@ -1,1 +1,1 @@
-# Amanda.3t.3b
+# paloma-3t-3b
