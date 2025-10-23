@@ -10,7 +10,5 @@ async function vizualizarInformacoesGlobais() {
     const container = document.getElementById('graficos-container')
     container.appendChild(paragrafo);
 }
-principais produtos do VBP da agropecuária (R$ bilhões)
-
 
 vizualizarInformacoesGlobais()
